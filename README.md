@@ -29,7 +29,7 @@ Developed a responsive chatbot website that uses AI to handle customer queries s
 Crafted a visually stunning portfolio showcasing my skills, projects, and expertise using modern web tools.
 
 Let's Connect!
-🌐 Portfolio: https://ahtishamazhar.github.io/My-Portfolio/
+🌐 Portfolio: https://ahtishamazhar.github.io/Portfolio-website/
 
 📧 Email: ahtishamazhar2023@gmail.com
 
