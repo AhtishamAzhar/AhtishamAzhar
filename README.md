@@ -1,8 +1,8 @@
-🌟 Hello, I'm Ahtisham Azhar
-👩‍💻 Final Year BSCS Student | Passionate Web Developer
+ Hello, I'm Ahtisham Azhar
+ Final Year BSCS Student | Passionate Web Developer
 🎓 Government College University,Lahore
 
-🚀 About Me
+ About Me
 💻 Final year student of BS Computer Science with a solid background in website development.
 🛠️ Proficient in HTML, CSS, JavaScript, React, and Bootstrap, creating responsive and dynamic websites.
 🔍 Skilled in problem-solving, with an interest in tackling challenges and writing efficient code.
